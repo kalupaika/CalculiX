@@ -1,0 +1,11 @@
+# Calculix compiled files
+*.o
+*.a
+
+# Caculix output files
+*.out
+*.12d
+*.cvg
+*.dat
+*.frd
+*.sta
